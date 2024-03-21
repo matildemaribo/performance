@@ -1,0 +1,76 @@
+*{
+    overflow-x: none;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(239, 233, 221, 1);
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#space{
+    justify-content: space-between;
+    margin-left: 50vh;
+    margin-right: 50vh;
+}
+#pladstop{
+    padding-top: 15vh;
+}
+
+h1{
+    font-family: "Playfair Display", serif;
+    font-size: 20vh;
+    padding-top: 20vh;
+}
+h3{
+    font-family: "Playfair Display", serif;
+    font-size: 2.5vh;
+    color: rgba(76, 74, 51, 1);
+    padding-top: 4vh;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2.5rem;
+}
+
+#hjeem{
+    width: 5%;
+    margin-left: 5vh;
+    margin-top: 5vh;
+    position: absolute;
+
+}
+#top{
+    background-image: url(images/bag.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.lokalknap{
+   background-color: rgba(239, 233, 221, 1); 
+   color: rgba(76, 74, 51, 1);
+   font-family: "Playfair Display", serif;
+   font-size: 4vh;
+   border-radius: 30px;
+   padding: 1vh;
+   padding-left: 2vh;
+   padding-right: 2vh;
+}
+.indholdet{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    height: 100vh;
+    background-image: url(images/bag1.png);
+    background-size:cover;
+    background-position:left;
+    height: 100vh;
+    margin-top: -1vh;
+
+}
