@@ -75,6 +75,7 @@ p{
     justify-content: space-between;
     align-items: center;
     height: 100vh;
+    width: 100%;
 }
 .tekst{
     width: 60%;
@@ -99,6 +100,8 @@ p{
     margin-top: -1vh;
 }
 #to{
+    height: 100vh;
+    margin-top: -1vh;
     background-color: rgba(169, 186, 159, 1);
 }
 #tre{
@@ -108,8 +111,8 @@ p{
     margin-top: -5vh;
 }
 #to .ani{
-    width: 30%;
-    margin-right: 100vh;
+    /* width: 30%;
+    margin-right: 100vh; */
 }
 #tre .tekst{
     width: 70%;
