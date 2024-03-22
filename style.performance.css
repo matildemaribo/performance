@@ -107,9 +107,6 @@ p{
     background-position:left;
     margin-top: -5vh;
 }
-#to .tekst{
-    width: ;
-}
 #to .ani{
     width: 30%;
     margin-right: 100vh;
@@ -117,7 +114,4 @@ p{
 #tre .tekst{
     width: 70%;
     margin-right: 5vh;
-}
-#fire{
-    height: 100vh;
 }
